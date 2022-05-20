@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aryen Singhal!
 
-Welcome to my Github profile! Here you'll find a few of my personal projects that I've done in Python, encompassing a wide variety of topics from algorithm simulations to games.
+Welcome to my Github profile! Here you'll find a few of my personal projects, encompassing a wide variety of topics from algorithm simulations to games.
 
 ## About me
 I'm a Grade 12 student of National Public School, Indiranagar.
