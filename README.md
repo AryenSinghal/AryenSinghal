@@ -3,7 +3,7 @@
 Welcome to my Github profile! Here you'll find a few of my personal projects, encompassing a wide variety of topics from algorithm simulations to games.
 
 ## About me
-I'm a Grade 12 student of National Public School, Indiranagar.
+I'm a Computer Science student at University of California San Diego.
 An avid coder, I love Computer Science, and am extremely passionate about technology and its applications in the future.
 
 I've taken part in various hackathons and competitive programming events over the years. I've also represented and won accolades for my school multiple times.
